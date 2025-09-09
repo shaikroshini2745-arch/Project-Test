@@ -1,0 +1,10 @@
+How to Deploy the git websites 
+1.open to the git hub account website.
+2.open to the repository 
+  a)select the recent repository name(text project).
+  b)Go to settings 
+  c)go to the pages
+  d)in build and deployment source, go to GitHub action.
+  e)select static html configuration.
+  f)commit and changes.
+3.commit and changes
